@@ -1,0 +1,8 @@
+20
+6
+3 Rivertown
+7 Highland
+14 Coastville
+19 Desertgate
+5 Lorena
+2 Denise
